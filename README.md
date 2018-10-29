@@ -11,3 +11,4 @@ Red
 
 Maroon
 Grey
+More colors are added in here.
